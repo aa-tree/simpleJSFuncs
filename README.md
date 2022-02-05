@@ -1,0 +1,2 @@
+# simpleJSFuncs
+Simple JS functions
